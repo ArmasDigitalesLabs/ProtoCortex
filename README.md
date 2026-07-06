@@ -1,0 +1,1 @@
+Project ProtoCortex — est. July 5, 2026. A self-hosted, privacy-first AI platform: a personal second brain that acts. Your data stays on your hardware behind a hard, auditable boundary; outside AI services see only what you permit. Internals private.
